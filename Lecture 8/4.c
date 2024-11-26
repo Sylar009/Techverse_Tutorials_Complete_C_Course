@@ -7,6 +7,7 @@ int main() {
 
     // Uncommenting the next lines will cause errors
     // *constantPtrToConst = 200;
+    // int anotherVariable = 144;
     // constantPtrToConst = &anotherVariable;
 
     return 0;

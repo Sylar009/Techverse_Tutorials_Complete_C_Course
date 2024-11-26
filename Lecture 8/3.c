@@ -9,6 +9,7 @@ int main() {
     printf("Modified Value: %d\n", *constPtr);
 
     // Uncommenting the next line will cause a compiler error
+    // int anotherVariable = 32;
     // constPtr = &anotherVariable;
 
     return 0;
