@@ -9,5 +9,6 @@ void increment() {
 int main() {
     increment();
     increment();
+    printf("Count: %d\n", count);
     return 0;
 }
