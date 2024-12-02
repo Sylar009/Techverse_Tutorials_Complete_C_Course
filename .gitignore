@@ -2,3 +2,4 @@
 */*.exe
 */*/*.exe
 */*/*/*.exe
+.vscode/tasks.json
